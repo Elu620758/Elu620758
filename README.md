@@ -17,7 +17,7 @@
 
 ### Frontend:
 - **React.js**
-- **HTML, CSS, JavaScript**
+- **HTML, CSS, JavaScript, typescript**
 
 ### Backend:
 - **Node.js**
